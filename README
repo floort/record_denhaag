@@ -1,0 +1,7 @@
+Usage: ./record_denhaag.sh ek|gvp|tb|tk|ts [file.dump]
+        ek : Eerste Kamer
+        gvp: Groen van Prinstererzaal
+        tb : Thorbeckezaal
+        tk : Tweede kamer
+        ts : Troelstrazaal
+
